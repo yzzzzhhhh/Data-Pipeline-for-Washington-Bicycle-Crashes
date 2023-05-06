@@ -1,0 +1,1 @@
+gcloud functions deploy extract_bikelanes --runtime python311 --trigger-http --source "C:/UPENN CLASS/MUSA 5090Geospatial Cloud Computing and Visualization/final-project/final-project/site/bikelanes" --region us-east1 --entry-point extract_crashes --project finalproject-da52a --allow-unauthenticated --service-account finalproject-da52a@appspot.gserviceaccount.com
