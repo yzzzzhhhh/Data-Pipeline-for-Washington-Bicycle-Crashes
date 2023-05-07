@@ -1,0 +1,11 @@
+gcloud functions deploy run_instance `
+--runtime python311 `
+--trigger-http `
+--source C:\Users\AcresAG\Desktop\run_instance `
+--region us-east1 `
+--entry-point run_instance `
+--project finalproject-da52a `
+--allow-unauthenticated `
+--service-account finalproject-da52a@appspot.gserviceaccount.com `
+
+gcloud functions deploy run_instance --runtime python311 --trigger-http --source C:\Users\AcresAG\Desktop\run_instance --region us-east1 --entry-point run_instance --project finalproject-da52a --allow-unauthenticated --service-account finalproject-da52a@appspot.gserviceaccount.com

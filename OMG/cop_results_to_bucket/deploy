@@ -1,0 +1,11 @@
+gcloud functions deploy load_results `
+--runtime python311 `
+--trigger-http `
+--source C:\Users\AcresAG\Desktop\load_results `
+--region us-east1 `
+--entry-point load_results `
+--project finalproject-da52a `
+--allow-unauthenticated `
+--service-account finalproject-da52a@appspot.gserviceaccount.com `
+
+gcloud functions deploy load_results --runtime python311 --trigger-http --source C:\Users\AcresAG\Desktop\load_results --region us-east1 --entry-point load_results --project finalproject-da52a --allow-unauthenticated --service-account finalproject-da52a@appspot.gserviceaccount.com
