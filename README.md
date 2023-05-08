@@ -1,11 +1,11 @@
 # Find Your Safe Biking Routes in Washington, D.C.
 By Interacting and Exploring Bike Crash Risk Scores In Different Areas
 
-Ke Zhou, Teresa Chang, Zhonghua Yang
-University of Pennsylvania Weitzman School of Design
-MUSA 509 Geospatial Cloud Computing Final Project
-Taught by Mjumbe Poe
-May 7th, 2023
+- Ke Zhou, Teresa Chang, Zhonghua Yang
+- University of Pennsylvania Weitzman School of Design
+- MUSA 509 Geospatial Cloud Computing Final Project
+- Taught by Mjumbe Poe
+- May 7th, 2023
 
 ## Description
 
